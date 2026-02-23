@@ -19,11 +19,18 @@ My development focus includes:
 
 ✔ Component-driven UI development  
 ✔ Performance optimized React applications  
-✔ Responsive and accessible design systems  
-✔ Modern TypeScript engineering  
-✔ Mobile-first web development  
+✔ Responsive and accessible designs   
 
 Every project I build follows professional software engineering practices.
+
+---
+
+## 🌐 Socials: 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rachelle0716) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/rachellep16) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/qwrty_rchll) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pantinople-rachelle-a-165028246/) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@qwerty_dev) 
 
 ---
 
@@ -40,62 +47,28 @@ Every project I build follows professional software engineering practices.
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) 
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) 
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) 
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) 
 
 ### 🔧 Backend & Tools
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) 
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
 
 ---
 
-## 📊 Engineering Metrics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rchll-16&theme=calm_pink&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=rchll-16&theme=calm_pink&hide_border=true" width="48%"/>
-
-</div>
+### ✍️ Random Dev Quote 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) 
 
 ---
 
-## 🌐 Language Distribution
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rchll-16&theme=calm_pink&hide_border=true&layout=compact" width="50%"/>
-</div>
-
----
-
-## 🏆 Developer Recognition
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rchll-16&theme=flat&no-frame=true&margin-w=6"/>
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-![Snake Animation](https://github.com/rchll-16/rchll-16/blob/output/github-snake.svg)
-
-</div>
-
----
-
-## 💡 Engineering Philosophy
-
-> Clean code is not written by accident — it is designed.
-
-I prioritize maintainability, scalability, and readability in every project.
-
----
-
-## 📈 Profile Engagement
-
-<div align="center">
-<img src="https://visitcount.itsvg.in/api?id=rchll-16&icon=2&color=5"/>
-</div>
+### 🔝 Top Contributed Repo 
+![](https://github-contributor-stats.vercel.app/api?username=rchll-16&limit=5&theme=catppuccin_latte&combine_all_yearly_contributions=true) --- 
+[![](https://visitcount.itsvg.in/api?id=rchll-16&icon=2&color=5)](https://visitcount.itsvg.in) <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
